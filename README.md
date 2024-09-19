@@ -1,4 +1,5 @@
-# SmsWithPasswordCheckUsingTwilio
+# SmsWithPasswordCheckUsingTwilioApi
+
 # Twilio SMS Python Script
 
 This Python script sends SMS messages using Twilio's messaging service. It allows sending alerts to a registered mobile number after verifying a password and tracking the number of incorrect attempts.
